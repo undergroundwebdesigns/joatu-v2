@@ -24,7 +24,7 @@ gem "skylight"
 # gem 'jquery-cookie-rails'
 # gem 'jquery-turbolinks'
 
-gem 'nokogiri', '~> 1.10.8'
+gem 'nokogiri', '~> 1.11.4'
 
 # Handles money support, with migration / DB integration.
 gem 'money-rails'#, github: "joatuapp/money-rails"
