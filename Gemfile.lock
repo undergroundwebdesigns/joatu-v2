@@ -466,7 +466,7 @@ GEM
     tilt (2.0.9)
     tins (1.25.0)
       sync
-    tzinfo (1.2.7)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uber (0.1.0)
     uglifier (4.1.20)
