@@ -136,7 +136,7 @@ gem 'pundit', '~> 0.3.0'
 gem 'reform'#, '~> 1.2.5'
 gem 'reform-rails'
 gem 'virtus', '~> 1.0.4'
-gem 'haml-rails', '~> 1.0'
+gem 'haml-rails', '~> 2.0'
 gem 'bootstrap-sass-extras'
 gem "font-awesome-rails"
 
